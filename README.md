@@ -6,7 +6,7 @@
 
 The primary business objective is to improve user engagement by providing personalized movie recommendations. By leveraging collaborative filtering techniques, we can predict a user's preference for a movie they have not yet rated. This approach is beneficial for streaming platforms and online movie databases, helping them suggest content that aligns with individual tastes.
 
-**Data Information**
+**Data Information** 
 
 The dataset used in this project consists of movie ratings provided by users. It includes key attributes such as userId, movieId, rating, timestamp, title, and genres. This dataset is well-suited for building a recommendation system because it captures explicit user preferences (ratings) along with metadata about the movies, such as their titles and genres.
 The dataset is structured and sufficiently large to support machine learning models. It allows for the application of collaborative filtering, a widely used technique that utilizes user behavior patterns to generate recommendations. The presence of multiple ratings from different users ensures that the model can learn and make accurate predictions.
